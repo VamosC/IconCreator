@@ -1,6 +1,6 @@
 # IconCreator
 
-## desription
+## Desription
 shell script for create icon for qt with macOS, work with png
 
 ## Platform
