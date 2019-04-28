@@ -13,7 +13,7 @@ chmod +x icon.sh
 ```
 or
 ```
-bash ./icon.sh
+bash ./icon.sh xxx.png
 ```
 
 ## Notice
