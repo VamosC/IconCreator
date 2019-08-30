@@ -10,6 +10,7 @@ then
 		mkdir "$folder"
 	else
 		rm -rf "$folder"
+		mkdir "$folder"
 	fi
 	sips -z 16 16 $1 --out icons.iconset/icon_16x16.png
 	sips -z 32 32 $1 --out icons.iconset/icon_16x16@2x.png
